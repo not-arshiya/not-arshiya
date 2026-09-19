@@ -1,7 +1,5 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:2d333b&height=180&section=header&text=ARSHIYA%20MAZHAR&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=FULL-STACK%20DEVELOPER&descSize=18&descAlignY=60)](#)
 
-# Introvert on the surface, full-stack underneath.
-
 I build full-stack web applications — React on the front end, Node.js/Express
 and MongoDB on the back end. Projects are meant to run end to end, not sit
 as demos.
